@@ -1,0 +1,15 @@
+/opt/TruckEvents/SensorData/src/main/java/data/processing/TruckScheme.java
+/opt/TruckEvents/SensorData/src/main/java/data/processing/LogTruckEventsBolt.java
+/opt/TruckEvents/SensorData/src/main/java/org/datacontract/schemas/_2004/_07/TruckAlertService/CompositeType.java
+/opt/TruckEvents/SensorData/src/main/java/org/tempuri/TruckAlertServiceLocator.java
+/opt/TruckEvents/SensorData/src/main/java/data/processing/SensorDataProcessingTopology.java
+/opt/TruckEvents/SensorData/src/main/java/data/processing/BaseTruckEventTopology.java
+/opt/TruckEvents/SensorData/src/main/java/org/tempuri/BasicHttpsBinding_ITruckAlertServiceStub.java
+/opt/TruckEvents/SensorData/src/main/java/data/producer/SensorDataProducer.java
+/opt/TruckEvents/SensorData/src/main/java/org/tempuri/BasicHttpBinding_ITruckAlertServiceStub.java
+/opt/TruckEvents/SensorData/src/main/java/org/tempuri/TruckAlertService.java
+/opt/TruckEvents/SensorData/src/main/java/org/tempuri/ITruckAlertService.java
+/opt/TruckEvents/SensorData/src/main/java/data/processing/TruckHBaseBolt.java
+/opt/TruckEvents/SensorData/src/main/java/data/processing/FileTimeRotationPolicy.java
+/opt/TruckEvents/SensorData/src/main/java/data/processing/HiveTablePartitionAction.java
+/opt/TruckEvents/SensorData/src/main/java/org/tempuri/ITruckAlertServiceProxy.java

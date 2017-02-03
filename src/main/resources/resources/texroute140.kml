@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark><name>Texas State Highway 140</name><Style><LineStyle><color>ff0000ff</color><width>5</width></LineStyle></Style><LineString>
+<coordinates>
+-102.07783,31.98908 -102.06285,31.98936 -102.06225,31.98933 -102.06176,31.98924 -102.06126,31.9891 -102.04902,31.98567 -102.03924,31.98292 
+</coordinates></LineString></Placemark></Document></kml>
